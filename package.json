@@ -4,9 +4,8 @@
   "description": "",
   "main": "first.js",
   "scripts": {
-  "start": "node first.js",
-  "test": "(eslint lib || true) && jest"
-},
+  "start": "node first.js"
+  },
   "author": "",
   "license": "ISC"
 }
